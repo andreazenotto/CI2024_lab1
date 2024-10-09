@@ -132,8 +132,10 @@ def simulated_annealing(i, instance, tweak, starting_solution, initial_temp, fin
 | 5        | 100000        | 10000          | 0.2     |     244478913.435          |
 | 6        | 100000        | 10000          | 0.3     |      378439450.655         |
 
-![Grafico](images/hcsm1.png){width=45%} ![Grafico](images/hcsm2.png){width=45%} ![Grafico](images/hcsm3.png){width=45%}
-![Grafico](images/hcsm4.png){width=45%} ![Grafico](images/hcsm5.png){width=45%} ![Grafico](images/hcsm6.png){width=45%}
+| ![Grafico](images/hcsm1.png) | ![Grafico](images/hcsm2.png) |
+|-----------------------------|-----------------------------|
+| ![Grafico](images/hcsm3.png) | ![Grafico](images/hcsm4.png) |
+| ![Grafico](images/hcsm5.png) | ![Grafico](images/hcsm6.png) |
 
 ---
 
@@ -148,8 +150,10 @@ def simulated_annealing(i, instance, tweak, starting_solution, initial_temp, fin
 | 5        | 100000        | 10000          | 0.2     |      242183590.431         |
 | 6        | 100000        | 10000          | 0.3     |      371593221.357         |
 
-![Grafico](images/hcmm1.png){width=45%} ![Grafico](images/hcmm2.png){width=45%} ![Grafico](images/hcmm3.png){width=45%}
-![Grafico](images/hcmm4.png){width=45%} ![Grafico](images/hcmm5.png){width=45%} ![Grafico](images/hcmm6.png){width=45%}
+| ![Grafico](images/hcmm1.png) | ![Grafico](images/hcmm2.png) |
+|-----------------------------|-----------------------------|
+| ![Grafico](images/hcmm3.png) | ![Grafico](images/hcmm4.png) |
+| ![Grafico](images/hcmm5.png) | ![Grafico](images/hcmm6.png) |
 
 ---
 
@@ -164,8 +168,10 @@ def simulated_annealing(i, instance, tweak, starting_solution, initial_temp, fin
 | 5        | 100000        | 10000          | 0.2     |      1732808.939         |
 | 6        | 100000        | 10000          | 0.3     |      1774079.361         |
 
-![Grafico](images/ghcsm1.png){width=45%} ![Grafico](images/ghcsm2.png){width=45%} ![Grafico](images/ghcsm3.png){width=45%}
-![Grafico](images/ghcsm4.png){width=45%} ![Grafico](images/ghcsm5.png){width=45%} ![Grafico](images/ghcsm6.png){width=45%}
+| ![Grafico](images/ghcsm1.png) | ![Grafico](images/ghcsm2.png) |
+|------------------------------|------------------------------|
+| ![Grafico](images/ghcsm3.png) | ![Grafico](images/ghcsm4.png) |
+| ![Grafico](images/ghcsm5.png) | ![Grafico](images/ghcsm6.png) |
 
 ---
 
@@ -180,8 +186,10 @@ def simulated_annealing(i, instance, tweak, starting_solution, initial_temp, fin
 | 5        | 100000        | 10000          | 0.2     |    1678254.076           |
 | 6        | 100000        | 10000          | 0.3     |     1776191.941          |
 
-![Grafico](images/ghcmm1.png){width=45%} ![Grafico](images/ghcmm2.png){width=45%} ![Grafico](images/ghcmm3.png){width=45%}
-![Grafico](images/ghcmm4.png){width=45%} ![Grafico](images/ghcmm5.png){width=45%} ![Grafico](images/ghcmm6.png){width=45%}
+| ![Grafico](images/ghcmm1.png) | ![Grafico](images/ghcmm2.png) |
+|------------------------------|------------------------------|
+| ![Grafico](images/ghcmm3.png) | ![Grafico](images/ghcmm4.png) |
+| ![Grafico](images/ghcmm5.png) | ![Grafico](images/ghcmm6.png) |
 
 ---
 
@@ -196,8 +204,10 @@ def simulated_annealing(i, instance, tweak, starting_solution, initial_temp, fin
 | 5        | 100000        | 10000          | 0.2     |     203511294.721          |
 | 6        | 100000        | 10000          | 0.3     |      314887111.044         |
 
-![Grafico](images/sasm1.png){width=45%} ![Grafico](images/sasm2.png){width=45%} ![Grafico](images/sasm3.png){width=45%}
-![Grafico](images/sasm4.png){width=45%} ![Grafico](images/sasm5.png){width=45%} ![Grafico](images/sasm6.png){width=45%}
+| ![Grafico](images/sasm1.png) | ![Grafico](images/sasm2.png) |
+|-----------------------------|-----------------------------|
+| ![Grafico](images/sasm3.png) | ![Grafico](images/sasm4.png) |
+| ![Grafico](images/sasm5.png) | ![Grafico](images/sasm6.png) |
 
 ---
 
@@ -212,8 +222,10 @@ def simulated_annealing(i, instance, tweak, starting_solution, initial_temp, fin
 | 5        | 100000        | 10000          | 0.2     |     207008357.051         |
 | 6        | 100000        | 10000          | 0.3     |      319078446.126         |
 
-![Grafico](images/samm1.png){width=45%} ![Grafico](images/samm2.png){width=45%} ![Grafico](images/samm3.png){width=45%}
-![Grafico](images/samm4.png){width=45%} ![Grafico](images/samm5.png){width=45%} ![Grafico](images/samm6.png){width=45%}
+| ![Grafico](images/samm1.png) | ![Grafico](images/samm2.png) |
+|-----------------------------|-----------------------------|
+| ![Grafico](images/samm3.png) | ![Grafico](images/samm4.png) |
+| ![Grafico](images/samm5.png) | ![Grafico](images/samm6.png) |
 
 ---
 
@@ -228,8 +240,10 @@ def simulated_annealing(i, instance, tweak, starting_solution, initial_temp, fin
 | 5        | 100000        | 10000          | 0.2     |      7487264.912         |
 | 6        | 100000        | 10000          | 0.3     |       8499574.776        |
 
-![Grafico](images/gsasm1.png){width=45%} ![Grafico](images/gsasm2.png){width=45%} ![Grafico](images/gsasm3.png){width=45%}
-![Grafico](images/gsasm4.png){width=45%} ![Grafico](images/gsasm5.png){width=45%} ![Grafico](images/gsasm6.png){width=45%}
+| ![Grafico](images/gsasm1.png) | ![Grafico](images/gsasm2.png) |
+|------------------------------|------------------------------|
+| ![Grafico](images/gsasm3.png) | ![Grafico](images/gsasm4.png) |
+| ![Grafico](images/gsasm5.png) | ![Grafico](images/gsasm6.png) |
 
 ---
 
@@ -244,5 +258,7 @@ def simulated_annealing(i, instance, tweak, starting_solution, initial_temp, fin
 | 5        | 100000        | 10000          | 0.2     |     9803749.970          |
 | 6        | 100000        | 10000          | 0.3     |      12026889.795         |
 
-![Grafico](images/gsamm1.png){width=45%} ![Grafico](images/gsamm2.png){width=45%} ![Grafico](images/gsamm3.png){width=45%}
-![Grafico](images/gsamm4.png){width=45%} ![Grafico](images/gsamm5.png){width=45%} ![Grafico](images/gsamm6.png){width=45%}
+| ![Grafico](images/gsamm1.png) | ![Grafico](images/gsamm2.png) |
+|------------------------------|------------------------------|
+| ![Grafico](images/gsamm3.png) | ![Grafico](images/gsamm4.png) |
+| ![Grafico](images/gsamm5.png) | ![Grafico](images/gsamm6.png) |
